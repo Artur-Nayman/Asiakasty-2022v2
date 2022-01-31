@@ -404,7 +404,7 @@ html,body{
 	z-index:1;
 }
 .single-slide-item.slide-1:before,.single-slide-item.slide-2:before{
-	background:rgba(115,112,215,.6);
+	background:#fe2b7078;
 	position:absolute;
 	left:0;
 	top:0;
@@ -691,7 +691,7 @@ a.service-btn,
 a:active.service-btn,
 a:hover.service-btn,
 a:focus.service-btn{
-	color: #7370d8;
+	color: #fe2b70;
     font-size:16px;
 	font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -717,7 +717,7 @@ a:focus.service-btn{
 .statistics:before{
 	position:absolute;
 	content:'';
-	background: rgba(115,112,216,.8);
+	background: #fe2b709e;
 	height:100%;
 	width:100%;
 	top:0;
@@ -818,7 +818,7 @@ a:focus.service-btn{
 	position:absolute;
 	height:100%;
 	width:100%;
-	background:rgba(115,112,216,.75);
+	background:#fe2b709e;
 	display:flex;
 	align-items:center;
 	text-transform: capitalize;
@@ -864,8 +864,8 @@ a:focus.service-btn{
 	letter-spacing: 1.2px;
 }
 .project-view {
-    background: #7370d8;
-    border: 1px solid #7370d8;
+    background: #fe2b70;
+    border: 1px solid #fe2b70;
     width:185px;
     height:52px;
     line-height: 50px;
@@ -889,7 +889,7 @@ a:focus.service-btn{
 --------------------------------------*/
 .team{
 	padding: 120px 0;
-	background: #908ddc;
+	background: #fe2b70;
 }
 .team.team-main{
 	background: #fff;
@@ -959,7 +959,7 @@ a:focus.service-btn{
     left: 0;
     width: 100%;
 	padding: 19px 0 0px 30px;
-	background: rgba(65,62,126,.8);
+	background: #fe2b7073;
 	height: 90px;
 	-webkit-transition: .7s;
     -moz-transition: .7s;
@@ -1046,7 +1046,7 @@ a:active.learn-btn{
 
 /*pricing-header */
 .pricing-header{
-	background:#7370d8;
+	background:#fe2b70;
 	padding-top: 25px;
     padding-bottom: 28px;
     -webkit-transition:all 0.3s linear;
@@ -1151,11 +1151,11 @@ a:active.learn-btn{
     margin: 5px 3px;
     border-radius:50%;
     background: transparent;
-    border: 2px solid #dfdeff;
+    border: 2px solid #fe2b707d;
 }
 .testemonial .owl-theme .owl-dots .owl-dot.active span{
-    background: #7370d8;
-    border: 2px solid #7370d8;
+    background: #fe3b7b;
+    border: 2px solid #fe3b7b;
 }
 
 /*home1-testm-txt*/
@@ -1170,7 +1170,7 @@ a:active.learn-btn{
     padding: 15px 0 30px;
 }
 .home1-testm-txt h3 a{
-	color: #7370d8;
+	color: #fe2b70;
 	font-size: 24px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -1184,7 +1184,7 @@ a:active.learn-btn{
     padding: 14px 0 0px;
 }
 .home1-testm-txt span {
-    color: #c3c3ef;
+    color: #fe3b7b;
     font-size: 40px;
 }/*home1-testm-txt*/
 
@@ -1194,7 +1194,7 @@ a:active.learn-btn{
 		12. Client
 --------------------------------------*/
 .clients{
-	background: #7370d8;
+	background: #fe3b7b;
 	padding: 53px 0 0px;
 }
 .clients-area {
@@ -1339,7 +1339,7 @@ a:active.learn-btn{
 	position: relative;
 }
 .contact:before{
-	background:rgba(115,112,215,.85);
+	background:#fe3b7bb0;
 	position:absolute;
 	left:0;
 	top:0;
@@ -1398,10 +1398,10 @@ a:active.learn-btn{
 	display:flex;
 	align-items:center;
 	justify-content:center;
-	background: #7370d8;
+	background: #fe2b70;
 	height:50px;
 	width: 195px;
-	border:1px solid #7370d8;
+	border:1px solid #fe2b70;
 	text-transform:uppercase;
 	font-family: 'Poppins', sans-serif;
 	margin-top: 3px;
@@ -1429,9 +1429,9 @@ a:active.learn-btn{
 }
 
 .single-contact-btn:hover button.contact-btn {
-	color:#7370d8;
+	color:#fe2b70;
 	background:#fff;
-	border:1px solid #7370d8;
+	border:1px solid #fe2b70;
 }
 
 /*--contct button--*/
@@ -1507,7 +1507,7 @@ a:active.learn-btn{
 --------------------------------------*/
 .new-project {
     padding: 72px 0 72px;
-    background: #7370d8;
+    background: #fe2b70;
 }
 .single-new-project h3{
 	color: #fff;
@@ -1662,7 +1662,7 @@ a:active.learn-btn{
 .foot-email-subscribe button{
     width:65px;
     height:65px;
-    background: #7370d8;
+    background: #fe2b70;
 	font-size:14px;
     color: #fff;
     text-transform: uppercase;
@@ -2315,8 +2315,8 @@ a:active.learn-btn{
     cursor: pointer;
     z-index:15;
     color: #fff;
-    background:#7370d8;
-	border:1px solid #7370d8;
+    background:#fe2b70;
+	border:1px solid #fe2b70;
 	border-radius:5px;
 	-webkit-transition: .5s;
 	-moz-transition:.5s;
@@ -2326,9 +2326,9 @@ a:active.learn-btn{
 	z-index: 2;
 }
 #scroll-Top  .return-to-top:hover {
-    background:#7370d8;
+    background:#fe2b70;
     color: #fff;
-	border:1px solid #7370d8;
+	border:1px solid #fe2b70;
 	border-radius:50%;
 }
 
